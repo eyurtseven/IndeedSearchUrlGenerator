@@ -1,0 +1,6 @@
+C:\Codebase\IndeedSearchUrlGenerator\IndeedSearchUrlGenerator\bin\Debug\IndeedSearchUrlGenerator.exe.config
+C:\Codebase\IndeedSearchUrlGenerator\IndeedSearchUrlGenerator\bin\Debug\IndeedSearchUrlGenerator.exe
+C:\Codebase\IndeedSearchUrlGenerator\IndeedSearchUrlGenerator\bin\Debug\IndeedSearchUrlGenerator.pdb
+C:\Codebase\IndeedSearchUrlGenerator\IndeedSearchUrlGenerator\obj\Debug\IndeedSearchUrlGenerator.csprojResolveAssemblyReference.cache
+C:\Codebase\IndeedSearchUrlGenerator\IndeedSearchUrlGenerator\obj\Debug\IndeedSearchUrlGenerator.exe
+C:\Codebase\IndeedSearchUrlGenerator\IndeedSearchUrlGenerator\obj\Debug\IndeedSearchUrlGenerator.pdb
